@@ -1,0 +1,28 @@
+[02-Sep-2024 12:37:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/xznkqgdl/wbot.30days.tech/api/add-device.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/xznkqgdl/wbot.30days.tech/api/add-device.php on line 27
+[02-Sep-2024 12:49:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function diff() on bool in /home/xznkqgdl/wbot.30days.tech/api/add-device.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/xznkqgdl/wbot.30days.tech/api/add-device.php on line 37
+[02-Sep-2024 12:53:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function diff() on bool in /home/xznkqgdl/wbot.30days.tech/api/add-device.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/xznkqgdl/wbot.30days.tech/api/add-device.php on line 37
+[02-Sep-2024 12:58:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function diff() on bool in /home/xznkqgdl/wbot.30days.tech/api/add-device.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/xznkqgdl/wbot.30days.tech/api/add-device.php on line 37
+[02-Sep-2024 13:01:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function diff() on bool in /home/xznkqgdl/wbot.30days.tech/api/add-device.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/xznkqgdl/wbot.30days.tech/api/add-device.php on line 37
+[02-Sep-2024 13:04:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function diff() on bool in /home/xznkqgdl/wbot.30days.tech/api/add-device.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/xznkqgdl/wbot.30days.tech/api/add-device.php on line 37
+[02-Sep-2024 13:12:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/xznkqgdl/wbot.30days.tech/api/add-device.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/xznkqgdl/wbot.30days.tech/api/add-device.php on line 115
